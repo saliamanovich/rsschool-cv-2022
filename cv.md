@@ -25,7 +25,7 @@ I am looking for a position as a Frond-end Developer (JavaScript).
 
 ### Work experience
 
-1. Beltelecom, 2017 - present Minsk, Belarus Engineer
+1. **Beltelecom, 2017 - present Minsk, Belarus Engineer**
 
 - writing program documentation (technical
   requirements, technical task, user's help,
@@ -37,12 +37,12 @@ I am looking for a position as a Frond-end Developer (JavaScript).
 - writing sql queries
 - liaising with developes and customes to ensure correct requaments
 
-2. Beltelecom, 2011 - 2017 Minsk, Belarus Сomputer center technician
+2. **Beltelecom, 2011 - 2017 Minsk, Belarus Сomputer center technician**
 
 - running and monitoring the execution of tasks
 - printing documentation for clients
 
-3. Beltelecom, 2011 - 2008 Minsk, Belarus Operator
+3. **Beltelecom, 2011 - 2008 Minsk, Belarus Operator**
 
 - accepting payments for communication services
 - working with people
