@@ -4,11 +4,15 @@
 
 - Address: 8 Karskogo Street, 126, Minsk, Belarus
 - GitHub: github.com/saliamanovich
-- # Email: saliamanovicha@gmail.com
+- Email: saliamanovicha@gmail.com
+
+---
 
 ### Objective
 
-# I am looking for a position as a Frond-end Developer (JavaScript).
+I am looking for a position as a Frond-end Developer (JavaScript).
+
+---
 
 ### Education
 
@@ -16,13 +20,16 @@
   systems software, qualification software engineer (2019-2021)
 - Belarusian state university of informatics and radioelectronics (BSUIR),
   department of engineering and economics, qualification engineer-economist (2007-2013)
-  ===
+
+---
 
 ### Qualifications
 
 - The Rolling scopes school, JavaScript/Front-end 2022Q3 (JavaScript) (just now)
 - The Rolling scopes school, JS/FE Pre-school 2022 (JavaScript) (2022)
-- # Refresher courses at the Center for Advanced Studies of Executives and Information Technology Specialists. Course "Working with Oracle SQL and PL / SQL" (2018)
+- Refresher courses at the Center for Advanced Studies of Executives and Information Technology Specialists. Course "Working with Oracle SQL and PL / SQL" (2018)
+
+---
 
 ### Work experience
 
@@ -46,7 +53,9 @@
 3. **Beltelecom, 2011 - 2008 Minsk, Belarus Operator**
 
 - accepting payments for communication services
-- # working with people
+- working with people
+
+---
 
 ### Skills
 
@@ -56,12 +65,19 @@
 - Figma
 - GIT
 - VS Code
-- # SQL
+- SQL
+
+---
 
 ### Language skills
 
 - Native Russian
-- # English: Pre-Intermediate
+
+---
+
+- English: Pre-Intermediate
+
+---
 
 ### Personal qualities
 
