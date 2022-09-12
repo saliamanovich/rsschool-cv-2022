@@ -73,8 +73,6 @@ I am looking for a position as a Frond-end Developer (JavaScript).
 
 - Native Russian
 
----
-
 - English: Pre-Intermediate
 
 ---
